@@ -13,7 +13,7 @@
 					"script": {
 						"exec": [
 							"pm.test(\"Body matches string\", function () {\r",
-							"    pm.expect(pm.response.text()).to.include(\"574 computers found\");\r",
+							"    pm.expect(pm.response.text()).to.include(\"573 computers found\");\r",
 							"});"
 						],
 						"type": "text/javascript"
